@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 tcod = "*"
+shelve2 = "*"
 
 [dev-packages]
 
